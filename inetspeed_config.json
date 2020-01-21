@@ -1,0 +1,7 @@
+{
+  "config" : {
+    "delay_time" : 1800.0,
+    "time_analysis" : 0.0,
+    "time_period" : 3600.0
+  }
+}
