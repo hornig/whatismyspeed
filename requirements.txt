@@ -1,1 +1,4 @@
 speedtest-cli
+matplotlib
+mastodon.py
+tweepy
