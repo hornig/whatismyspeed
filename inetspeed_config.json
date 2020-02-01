@@ -1,7 +1,29 @@
 {
-  "config" : {
-    "delay_time" : 1800.0,
-    "time_analysis" : 0.0,
-    "time_period" : 3600.0
-  }
+    "config": {
+        "delay_time": 1800.0,
+        "time_analysis": 1580408880.6422567,
+        "time_period": 3600.0,
+        "analysis": {
+            "weekday": [
+                3
+            ],
+            "hour": [
+                12
+            ],
+            "storage_path": "graphs",
+            "locked": 0
+        },
+        "social": {
+            "mastodon": {
+                "access_token": "",
+                "api_base_url": ""
+            },
+            "twitter": {
+                "consumer_key": "",
+                "consumer_secret": "",
+                "token": "",
+                "token_secret": ""
+            }
+        }
+    }
 }
